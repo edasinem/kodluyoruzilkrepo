@@ -10,7 +10,7 @@ git clone https://github.com/edasinem/kodluyoruzilkrepo
 
 ## Usage
 
-Projeyi clone'ladıktan sonra Visual Studio Code programında açınız.
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```linux
