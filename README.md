@@ -2,7 +2,7 @@
 Bu repo [Kodluyoruz](https://academy.patika.dev/tr) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
 ## Installation
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.
 
 ```bash
 git clone https://github.com/edasinem/kodluyoruzilkrepo
@@ -10,7 +10,7 @@ git clone https://github.com/edasinem/kodluyoruzilkrepo
 
 ## Usage
 
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+Projeyi clone'ladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```linux
